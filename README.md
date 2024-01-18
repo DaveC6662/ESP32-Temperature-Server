@@ -77,4 +77,4 @@ This project uses an ESP32 board to monitor temperature with a DS18B20 sensor. I
 Contributions are welcome. Please adhere to coding standards and include tests and documentation with your contributions.
 
 ## License
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
