@@ -11,19 +11,19 @@ This project uses an ESP32 board to monitor temperature with a DS18B20 sensor. I
 - Dynamic web content with live temperature updates
 
 ## Wifi Connection
-![IMG_1600](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/cdce02ec-40fc-4331-85bb-3317f62f273b)
+![IMG_1600](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/9be891cb-cbaf-4795-af6b-c39cce2f7457)
 
 ## Captive Portal Home Page
-![IMG_1601](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/f58a008f-c206-45fa-b963-3186f5dcabad)
+![IMG_1601](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/94014de3-a1c1-4773-9508-06c245127e67)
 
 ## Captive Portal Security Selection
-![IMG_1602](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/8c5279d7-b197-4ef5-b05d-d3328850dead)
+![IMG_1602](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/fa0cd7b4-2c72-48b4-914d-afd4ac9de1ed)
 
 ## Captive Portal WPA2 Personal
-![IMG_1603](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/c97a4795-5d4b-4aa1-a4cb-d3fdc9823d5a)
+![IMG_1603](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/f0e9a0ee-74e2-440b-aa99-1aa57cd7e180)
 
 ## Captive Portal WPA2 Enterprise
-![IMG_1604](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/a0761aa9-1013-4101-9b7f-1307c98a611e)
+![IMG_1604](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/3a6d29f3-111d-4ca9-adf0-18dcb122254f)
 
 ## Temperature Server Home Page
 ![MainServer](https://github.com/DaveC6662/ESP32-Temperature-Server/assets/141587948/74848521-150f-431f-869d-4f5895d9bb9d)
